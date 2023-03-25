@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #93c5fd;
+    height: 100vh;
+  }
+  .sub-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border-width: 0px;
+    padding: 25px;
+  }
+  .forms {
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+  }
+  .country-box {
+    font-size: 15px;
+  }
+  
